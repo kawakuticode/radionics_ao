@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.kawakuticode.radionics_ao.FirstFragment"
+        android:name="com.kawakuticode.radionics_ao.fragments.FirstFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/fragment_first">
 
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="com.kawakuticode.radionics_ao.SecondFragment"
+        android:name="com.kawakuticode.radionics_ao.fragments.SecondFragment"
         android:label="@string/second_fragment_label"
         tools:layout="@layout/fragment_second">
 

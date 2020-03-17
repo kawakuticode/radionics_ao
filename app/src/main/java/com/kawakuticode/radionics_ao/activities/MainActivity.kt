@@ -1,12 +1,11 @@
-package com.kawakuticode.radionics_ao
+package com.kawakuticode.radionics_ao.activities
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
-
-import kotlinx.android.synthetic.main.activity_main.*
+import com.kawakuticode.radionics_ao.R
 
 class MainActivity : AppCompatActivity() {
 
