@@ -3,6 +3,9 @@
     android:id="@+id/radio_list"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/backgroundcolor"
     xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--  <include layout="@layout/top_radio_fragment" /> -->
 
 </androidx.recyclerview.widget.RecyclerView>

@@ -2,4 +2,6 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="card_corner_radius">4</dimen>
     <dimen name="card_elevation">4</dimen>
+    <dimen name="list_text_size">18sp</dimen>
+    <dimen name="radio_text_size">32sp</dimen>
 </resources>
